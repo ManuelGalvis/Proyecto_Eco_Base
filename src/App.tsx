@@ -241,7 +241,7 @@ const App = () => {
     },
     {
       nivel: "ECO 1",
-      grados: "1° y 2°",
+      grados: "1°, 2° y 3°",
       eje: "Exploración emocional y social",
       color: "bg-blue-100 border-blue-300",
       icon: Compass,
@@ -294,7 +294,7 @@ const App = () => {
     },
     {
       nivel: "ECO 2",
-      grados: "3° y 4°",
+      grados: "4° y 5°",
       eje: "Desarrollo de competencias emocionales",
       color: "bg-green-100 border-green-300",
       icon: Target,
@@ -347,7 +347,7 @@ const App = () => {
     },
     {
       nivel: "ECO 3",
-      grados: "5°",
+      grados: "6° y 7°",
       eje: "Fortalecimiento de la inteligencia emocional",
       color: "bg-yellow-100 border-yellow-300",
       icon: Award,
@@ -401,7 +401,7 @@ const App = () => {
     },
     {
       nivel: "ECO 4",
-      grados: "6° y 7°",
+      grados: "8° y 9°",
       eje: "Aplicación práctica de competencias socioemocionales",
       color: "bg-purple-100 border-purple-300",
       icon: Users,
@@ -457,7 +457,7 @@ const App = () => {
     },
     {
       nivel: "ECO 5",
-      grados: "8°, 9°, 10° y 11°",
+      grados: "10° y 11°",
       eje: "Liderazgo emocional y social",
       color: "bg-indigo-100 border-indigo-300",
       icon: BookOpen,
